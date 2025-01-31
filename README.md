@@ -1,6 +1,6 @@
 # 🏀🏈⚾🏒 StatSphere: Sports Statistics Database
 
-![StatSphere Logo](assets/statsphere.png)
+![StatSphere Logo](statsphere.png)
 
 ## 📽️ Video Demonstration
 [![Watch the demo](https://img.youtube.com/vi/qitZmi6VClg/0.jpg)](https://www.youtube.com/watch?v=qitZmi6VClg&t=370s)
@@ -48,7 +48,7 @@ python3 app.py
 
 ## 📷 Image Support
 To add an image, place your **PNG logo** in the `assets/` folder and update the file path in:
-![StatSphere Logo](assets/statsphere.png)
+![StatSphere Logo](statsphere.png)
 You can replace `assets/statsphere.png` with your actual file location.
 
 ## 📺 Video Demonstration
