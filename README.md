@@ -1,6 +1,5 @@
 # 🏀🏈⚾🏒 StatSphere: Sports Statistics Database
 
-![StatSphere Logo](statsphere.png)
 
 ## 📽️ Video Demonstration
 [![Watch the demo](https://img.youtube.com/vi/qitZmi6VClg/0.jpg)](https://www.youtube.com/watch?v=qitZmi6VClg&t=370s)
@@ -46,20 +45,8 @@ python3 app.py
 
 📝 **Note**: The database file `statsphere.db` will be automatically created on the first run.
 
-## 📷 Image Support
-To add an image, place your **PNG logo** in the `assets/` folder and update the file path in:
+## 📷 Schema Diagram
+
 ![StatSphere Logo](statsphere.png)
-You can replace `assets/statsphere.png` with your actual file location.
 
-## 📺 Video Demonstration
-Click below to watch **StatSphere in action!**
 
-Enjoy using **StatSphere**! 🎉 Let me know if you have any questions or feature requests. 🚀
-
-### 🔥 What's New in This Version?
-✅ **Emojis** for a more engaging README
-✅ **Motivation Section** to explain the purpose of the project
-✅ **PNG Image Support** – Add your logo inside the assets/ folder
-✅ **Clickable YouTube Thumbnail** to link directly to your video
-
-This will give your README a more **professional and engaging look**! 🚀 Let me know if you need any modifications. 🎯
